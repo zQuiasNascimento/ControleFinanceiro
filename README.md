@@ -6,19 +6,11 @@ Um sistema completo de gestão financeira pessoal desenvolvido com foco na simpl
 
 Este sistema foi desenvolvido ao longo de aproximadamente 2 meses, sendo um dos meus primeiros projetos com foco real. Criado com o auxílio de IA e sem experiência prévia significativa, o sistema passou por intensos testes e correções de bugs, atingindo hoje **95% de funcionalidade completa**.
 
-## 📸 Capturas de Tela
-
-### Dashboard Principal
-![Dashboard Financeiro](https://github.com/seu-usuario/seu-repositorio/blob/main/screenshots/dashboard.png)
-
 O dashboard apresenta uma visão completa das finanças com:
 - **Receita Total**: R$ 2.000,00
 - **Despesa Total**: R$ 150,00  
 - **Saldo Disponível**: R$ 1.850,00
 - **Progresso das Metas**: R$ 0,00
-
-### Configurações do Sistema
-![Configurações](https://github.com/seu-usuario/seu-repositorio/blob/main/screenshots/configuracoes.png)
 
 Sistema de configurações com opções para:
 - Alternar entre tema claro e escuro

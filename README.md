@@ -1,74 +1,52 @@
 # 📊 Dashboard Financeiro
 
+🔗 **[Ver projeto ao vivo](https://zquiasnascimento.github.io/ControleFinanceiro/)**
+
+[![Deploy](https://img.shields.io/badge/Deploy-🚀%20Ver%20ao%20vivo-brightgreen)](https://zquiasnascimento.github.io/ControleFinanceiro/)
+[![Status](https://img.shields.io/badge/Status-95%25%20Funcional-success)](https://zquiasnascimento.github.io/ControleFinanceiro/)
+
 Um sistema completo de gestão financeira pessoal desenvolvido com foco na simplicidade e funcionalidade.
 
 ## 🚀 Sobre o Projeto
 
-Este sistema foi desenvolvido ao longo de aproximadamente 2 meses, sendo um dos meus primeiros projetos com foco real. Criado com o auxílio de IA e sem experiência prévia significativa, o sistema passou por intensos testes e correções de bugs, atingindo hoje **95% de funcionalidade completa**.
+Sistema desenvolvido ao longo de 2 meses, sendo um dos meus primeiros projetos com foco real. Criado com auxílio de IA, passou por intensos testes e correções, atingindo **95% de funcionalidade completa**.
 
-O dashboard apresenta uma visão completa das finanças com:
-- **Receita Total**: R$ 2.000,00
-- **Despesa Total**: R$ 150,00  
-- **Saldo Disponível**: R$ 1.850,00
-- **Progresso das Metas**: R$ 0,00
+## 🛠️ Tecnologias
 
-Sistema de configurações com opções para:
-- Alternar entre tema claro e escuro
-- Backup e restauração completa de dados
-- Configurações de aparência personalizáveis
+* HTML5, CSS3, JavaScript
+* Chart.js para gráficos
+* LocalStorage para dados
+* GitHub Pages
 
-## 🛠️ Funcionalidades
+## ✨ Funcionalidades
 
-- **📈 Dashboard Interativo**: Visualização clara de receitas, despesas e saldo
-- **📊 Gráfico de Fluxo de Caixa**: Acompanhamento mensal das movimentações financeiras
-- **💰 Gestão de Receitas**: Controle completo de entradas financeiras
-- **💸 Controle de Despesas**: Monitoramento detalhado de gastos
-- **🎯 Metas Financeiras**: Definição e acompanhamento de objetivos
-- **💳 Gestão de Cartões**: Controle de cartões de crédito e débito
-- **📋 Transações**: Histórico completo de movimentações
-- **🔄 Backup/Restore**: Sistema seguro de backup e restauração
-- **🌓 Tema Claro/Escuro**: Interface adaptável às preferências do usuário
+* **📈 Dashboard Interativo**: Visão geral das finanças
+* **💰 Gestão de Receitas e Despesas**: Controle completo de movimentações
+* **📊 Gráficos**: Acompanhamento visual do fluxo de caixa
+* **🎯 Metas Financeiras**: Definição e acompanhamento de objetivos
+* **💳 Gestão de Cartões**: Controle de cartões de crédito/débito
+* **🔄 Backup/Restore**: Sistema de backup completo dos dados
+* **🌓 Tema Claro/Escuro**: Interface adaptável
 
-## 🎯 Navegação
+## 🔧 Como Usar
 
-O sistema possui uma estrutura intuitiva dividida em seções:
+**Online**: Acesse [Dashboard Financeiro](https://zquiasnascimento.github.io/ControleFinanceiro/)
 
-### 📊 Principal
-- **Dashboard**: Visão geral das finanças
-- **Receitas**: Gestão de entradas
-- **Despesas**: Controle de gastos
+**Local**:
+```bash
+git clone https://github.com/zquiasnascimento/ControleFinanceiro.git
+cd ControleFinanceiro
+# Abrir index.html no navegador
+```
 
-### 💼 Financeiro  
-- **Cartões**: Gerenciamento de cartões
-- **Transações**: Histórico de movimentações
+## 🚧 Status
 
-### 📈 Análises
-- **Resumo**: Análises consolidadas
-- **Relatórios**: Relatórios detalhados
-
-### ⚙️ Sistema
-- **Configurações**: Personalização e backup
-
-## 🚧 Status do Desenvolvimento
-
-- ✅ Interface de usuário completa
-- ✅ Sistema de navegação funcional
-- ✅ Gestão de receitas e despesas
-- ✅ Gráficos interativos
-- ✅ Sistema de backup/restore
-- ✅ Temas claro e escuro
-- ⚠️ 95% das funcionalidades implementadas
-- 🔄 Melhorias contínuas em andamento
+* ✅ 95% das funcionalidades implementadas
+* 🔄 Melhorias contínuas em andamento
 
 ## 💡 Aprendizados
 
-Este projeto representa uma jornada de aprendizado significativa, demonstrando que é possível criar soluções funcionais mesmo partindo do zero. O desenvolvimento envolveu:
-
-- Planejamento e estruturação de interface
-- Implementação de funcionalidades complexas
-- Testes extensivos e correção de bugs
-- Otimização de performance
-- Design responsivo e acessível
+Projeto que demonstra evolução significativa partindo do zero, envolvendo planejamento de interface, implementação de funcionalidades complexas, testes extensivos e design responsivo.
 
 ## 📄 Licença
 
@@ -76,19 +54,10 @@ Este projeto representa uma jornada de aprendizado significativa, demonstrando q
 
 Copyright © 2025 **Ezequias Silva Pedreira Nascimento**
 
-Este código-fonte é disponibilizado **exclusivamente para fins de visualização**.
-
-É expressamente proibido, sem autorização prévia e por escrito do autor:
-
-1. Copiar, reproduzir ou distribuir este código, total ou parcialmente.
-2. Modificar, adaptar ou criar trabalhos derivados a partir deste código.
-3. Utilizar este código, total ou parcialmente, para fins comerciais ou pessoais.
-4. Publicar este código, total ou parcialmente, em qualquer meio físico ou digital.
-
-O acesso ao conteúdo não concede quaisquer direitos de propriedade intelectual ou licença de uso, além do direito limitado de visualização para fins educacionais ou de demonstração.
-
-Qualquer uso não autorizado estará sujeito a medidas legais cabíveis.
+Este código é disponibilizado exclusivamente para visualização. Uso, cópia ou distribuição não autorizados estão proibidos.
 
 ---
 
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+⭐ Se gostou do projeto, considere dar uma estrela!
+
+🔗 **[Acesse o Dashboard Financeiro](https://zquiasnascimento.github.io/ControleFinanceiro/)**

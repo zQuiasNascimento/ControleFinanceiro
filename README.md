@@ -4,6 +4,7 @@
 
 [![Deploy](https://img.shields.io/badge/Deploy-🚀%20Ver%20ao%20vivo-brightgreen)](https://zquiasnascimento.github.io/ControleFinanceiro/)
 [![Status](https://img.shields.io/badge/Status-95%25%20Funcional-success)](https://zquiasnascimento.github.io/ControleFinanceiro/)
+[![Mobile](https://img.shields.io/badge/Mobile-⚠️%20Em%20desenvolvimento-yellow)](https://zquiasnascimento.github.io/ControleFinanceiro/)
 
 Um sistema completo de gestão financeira pessoal desenvolvido com foco na simplicidade e funcionalidade.
 
@@ -32,6 +33,8 @@ Sistema desenvolvido ao longo de 2 meses, sendo um dos meus primeiros projetos c
 
 **Online**: Acesse [Dashboard Financeiro](https://zquiasnascimento.github.io/ControleFinanceiro/)
 
+> ⚠️ **Observação**: O projeto está otimizado para desktop. A versão mobile apresenta algumas limitações e está em desenvolvimento.
+
 **Local**:
 ```bash
 git clone https://github.com/zquiasnascimento/ControleFinanceiro.git
@@ -41,7 +44,8 @@ cd ControleFinanceiro
 
 ## 🚧 Status
 
-* ✅ 95% das funcionalidades implementadas
+* ✅ 95% das funcionalidades implementadas (Desktop)
+* ⚠️ Versão mobile em desenvolvimento
 * 🔄 Melhorias contínuas em andamento
 
 ## 💡 Aprendizados
